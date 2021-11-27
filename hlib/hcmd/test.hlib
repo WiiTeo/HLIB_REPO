@@ -1,0 +1,4 @@
+# TEST HLIB LIBRARY
+
+elif userType == "hello":
+  print("Hello bro")
